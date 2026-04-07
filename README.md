@@ -1,5 +1,6 @@
 # TFormer-mlp
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
+## License
+This project is licensed under the [MIT License](https://github.com/wangyiyi123168-web/TFormer-mlp/blob/main/LICENSE).
 
 ## Introduction
 The official implementation of "A Melanoma Diagnosis System Based on Multimodal Images and the Seven-Point Checklist"
